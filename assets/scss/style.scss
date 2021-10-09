@@ -1,14 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
 
 
-/*Config*/
+/*Variaveis*/
 @import './variaveis.scss';
-@import './config.scss';
+
 
 /*Componentes*/
 @import './header.scss';
 @import './nav-item';
+@import './banners-promocionais-statico.scss';
+@import './produtos.scss';
+@import './footer.scss';
+@import './responsivo.scss';
 
+/*Componentes*/
+@import './breadcrumb.scss';
+@import './produto-compra.scss';
+
+
+/*Framework*/
 @import './bootstrap.scss';
 
 
+/*Config*/
+@import './config.scss';
